@@ -1,0 +1,5 @@
+torch>=2.0.0
+sentencepiece>=0.1.99
+numpy>=1.23.5
+nltk>=3.8.1
+sacrebleu>=2.3.1
