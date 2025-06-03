@@ -104,10 +104,4 @@ For demonstration, the code includes a small sample dataset. Replace it with one
 - **Self-Supervised Pretraining**: Pretrain on a large corpus, then fine-tune for next-word prediction.
 - **Attention Visualization**: Use `bertviz` to visualize attention weights for interpretability.
 
-## Contributing
 
-Contributions are welcome! Please submit pull requests or open issues for bugs, feature requests, or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
